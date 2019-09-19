@@ -1,0 +1,29 @@
+[{
+        "apartment_number": 1,
+        "type_room": "floor",
+        "mt2": 0,
+        "price_mt2": 5000,
+        "total": 0
+    },
+    {
+        "apartment_number": 2,
+        "type_room": "windows",
+        "mt2": 0,
+        "price_mt2": 2000,
+        "total": 0
+    },
+    {
+        "apartment_number": 3,
+        "type_room": "bathroom",
+        "mt2": 0,
+        "price_mt2": 3000,
+        "total": 0
+    },
+    {
+        "apartment_number": 4,
+        "type_room": "bedroom",
+        "mt2": 0,
+        "price_mt2": 6000,
+        "total": 0
+    }
+]
